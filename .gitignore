@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+*.env
+
+# OS / Editor files
+.DS_Store
+.vscode/
